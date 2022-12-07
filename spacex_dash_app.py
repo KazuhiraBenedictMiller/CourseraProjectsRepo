@@ -97,6 +97,7 @@ def update_graph(site_dropdown, payload_slider):
         color="Booster Version Category")
         return scatterplot
 
+      
 # Run the app
 if __name__ == '__main__':
     app.run_server()
